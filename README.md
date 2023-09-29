@@ -137,5 +137,4 @@ Lee has joined the chat!
 [2020-01-20 16:04:57][Lee]:^C
 ```
 ### authors
-
-@smustafi @vtarasso
+@vtarasso @smustafi
